@@ -1,0 +1,12 @@
+{
+  "name": "thought-trail",
+  "version": "1.0.0",
+  "description": "A blogging app enhanced with crud operations build with express.js , mongodb and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
